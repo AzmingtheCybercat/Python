@@ -1,0 +1,6 @@
+leeftijd = input("Hoe oud ben je?")
+print("Aha, je bent dus " + leeftijd + " jaar oud, nice!")
+sibling =  input("Hoeveel huisdieren heb je?")
+print("" + sibling + " huisdieren, oke oke")
+jane = input("Wil je er ook " + sibling + " als je op jezelf woont?")
+print("" + jane + "? Oke.")
